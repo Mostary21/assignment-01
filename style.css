@@ -1,0 +1,16 @@
+body{
+    font-family: 'Redressed', cursive;
+}
+h1{
+    font-size: 70px;
+    font-weight: 800;
+}
+p{
+    font-size: 30px;
+}
+img{
+    width: 100%;
+}
+.color-grad{
+    color: orangered;
+}
